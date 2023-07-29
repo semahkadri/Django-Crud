@@ -20,13 +20,9 @@ The Django CRUD Project provides a foundation for creating, managing, and viewin
 
 To get the Django CRUD Project up and running on your local machine, follow these steps:
 
-1. Clone the repository to your local environment:
+1. Clone the repository to your local environment: ```git clone https://github.com/semahkadri/Django-Crud.git```
 
-```git clone https://github.com/semahkadri/Django-Crud.git```
+2. Install following dependencies: ```pip install django```
 
-2. Install following dependencies:
-```pip install django```
-
-3. Run project
-```python manage.py runserver```
+3. Run project: ```python manage.py runserver```
 
